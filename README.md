@@ -18,3 +18,5 @@ This is Mubassir Hayat
 - 💬 Ask me anything at https://twitter.com/MubassirHayat
 - 📫 How to reach me: mubassirhayat@gmail.com
 - ⚡ Fun fact: I love watching movies
+
+<a href="https://github.com/mubassirhayat"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mubassirhayat&show_icons=true" align="right" height="150" /></a>
