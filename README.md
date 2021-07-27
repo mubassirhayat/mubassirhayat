@@ -1,10 +1,10 @@
 <p>
   <a href="https://twitter.com/MubassirHayat">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MubassirHayat?style=for-the-badge">
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 
   <a href="https://github.com/mubassirhayat">
-    <img alt="GitHub Profile" src="https://img.shields.io/static/v1?label=Profile&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   
   
