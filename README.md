@@ -6,6 +6,11 @@
   <a href="https://github.com/mubassirhayat">
     <img alt="GitHub Profile" src="https://img.shields.io/static/v1?label=Profile&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
   </a>
+  
+  
+  <a href="https://www.linkedin.com/in/mubassirhayat/">
+    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <a href="https://github.com/mubassirhayat"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mubassirhayat&show_icons=true" align="right" height="150" /></a>
