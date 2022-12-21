@@ -14,9 +14,9 @@
 
 This is Mubassir Hayat
 
-- 🔭 I’m currently working as a Software Engineer at [@CodeForPakistan](https://github.com/codeforpakistan)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Vue.js](https://vuejs.org/)
+- 🔭 I’m currently working as a Manager Engineering & Technology at [@CodeForPakistan](https://github.com/codeforpakistan)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Vue.js](https://vuejs.org/) and [Swift](https://swiftuidocs.com/)
 - 👯 I’m looking to collaborate on OSS
 - 💬 Ask me anything at [@MubassirHayat](https://twitter.com/MubassirHayat)
-- 📫 How to reach me: mubassirhayat@gmail.com
+- 📫 How to reach me: [mubassirhayat@gmail.com](mailto:mubassirhayat@gmail.com)
 - ⚡ Fun fact: I love watching movies (Big Marvel Fan)
