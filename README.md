@@ -15,8 +15,9 @@
 This is Mubassir Hayat
 
 - 🔭 Manager Engineering & Technology at [@CodeForPakistan](https://github.com/codeforpakistan)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Vue.js](https://vuejs.org/) and [Swift](https://swiftuidocs.com/)
-- 👯 I’m looking to collaborate on OSS
+- 📜 I love writing technical documents i.e Technical Report, Digitization/Digitalization Roadmaps, Tech Blogs etc  
+- 🌱 I’m currently using [Node.js](https://nodejs.org/en), [Express.js](https://expressjs.com/), [Vue.js](https://vuejs.org/), [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [Flutter](https://flutter.dev/) and [Swift](https://swiftuidocs.com/)
+- 👯 I love contributing to Open-Source
 - 💬 Ask me anything at [@MubassirHayat](https://twitter.com/MubassirHayat)
-- 📫 How to reach me: [mubassirhayat@gmail.com](mailto:mubassirhayat@gmail.com)
+- 📫 How to reach me: [mubassirhayat@gmail.com](mailto:mubassir@codeforpakistan.org)
 - ⚡ Fun fact: I love watching movies (Big Marvel Fan)
